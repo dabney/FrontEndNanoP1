@@ -1,0 +1,15 @@
+* {
+  border: 1px solid red;
+}
+body {
+  font-family: 'Coustard', serif;
+  color: #2c190a;
+  background: #c69050;
+}
+header {
+  border-bottom: 3px solid #2c190a;
+}
+.margin-vertical {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}

@@ -1,0 +1,1 @@
+Branded wood in PhotoShop from this tutorial: https://www.youtube.com/watch?v=fUJxsdmR-Ik
